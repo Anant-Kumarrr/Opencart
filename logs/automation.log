@@ -1,0 +1,84 @@
+2024-10-21 00:12:00 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Eclipse-Workspace\Opencart\grouping.xml
+
+2024-10-21 00:12:04 INFO  TC02_SingleLoginTest:15 -
+			*** Starting TC02_LoginTest *** 
+2024-10-21 00:12:05 INFO  TC02_SingleLoginTest:39 -
+			*** Finished TC02_SingleLoginTest ***
+2024-10-21 00:15:19 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Eclipse-Workspace\Opencart\grouping.xml
+
+2024-10-21 00:15:24 INFO  TC02_SingleLoginTest:15 -
+			*** Starting TC02_LoginTest *** 
+2024-10-21 00:15:25 INFO  TC02_SingleLoginTest:39 -
+			*** Finished TC02_SingleLoginTest ***
+2024-10-21 00:24:04 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Eclipse-Workspace\Opencart\grouping.xml
+
+2024-10-21 00:24:08 INFO  TC01_AccountRegistrationTest:15 -
+			*** Starting TC01_AccountRegistrationTest ***
+2024-10-21 00:24:09 INFO  TC01_AccountRegistrationTest:18 -
+			Clicked On My Account
+2024-10-21 00:24:09 INFO  TC01_AccountRegistrationTest:20 -
+			Clicked On Registration
+2024-10-21 00:24:09 INFO  TC01_AccountRegistrationTest:24 -
+			Providing Customer Details
+2024-10-21 00:24:10 ERROR TC01_AccountRegistrationTest:41 -
+			Test Failed
+2024-10-21 00:24:14 INFO  TC02_SingleLoginTest:15 -
+			*** Starting TC02_LoginTest *** 
+2024-10-21 00:24:15 INFO  TC02_SingleLoginTest:39 -
+			*** Finished TC02_SingleLoginTest ***
+2024-10-21 00:28:55 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Eclipse-Workspace\Opencart\grouping.xml
+
+2024-10-21 00:29:00 INFO  TC01_AccountRegistrationTest:15 -
+			*** Starting TC01_AccountRegistrationTest ***
+2024-10-21 00:29:00 INFO  TC01_AccountRegistrationTest:18 -
+			Clicked On My Account
+2024-10-21 00:29:00 INFO  TC01_AccountRegistrationTest:20 -
+			Clicked On Registration
+2024-10-21 00:29:00 INFO  TC01_AccountRegistrationTest:24 -
+			Providing Customer Details
+2024-10-21 00:29:06 ERROR TC01_AccountRegistrationTest:42 -
+			Test Failed
+2024-10-21 00:29:11 INFO  TC02_SingleLoginTest:15 -
+			*** Starting TC02_LoginTest *** 
+2024-10-21 00:29:12 INFO  TC02_SingleLoginTest:39 -
+			*** Finished TC02_SingleLoginTest ***
+2024-10-21 00:31:50 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Eclipse-Workspace\Opencart\grouping.xml
+
+2024-10-21 00:31:54 INFO  TC01_AccountRegistrationTest:15 -
+			*** Starting TC01_AccountRegistrationTest ***
+2024-10-21 00:31:55 INFO  TC01_AccountRegistrationTest:18 -
+			Clicked On My Account
+2024-10-21 00:31:55 INFO  TC01_AccountRegistrationTest:20 -
+			Clicked On Registration
+2024-10-21 00:31:55 INFO  TC01_AccountRegistrationTest:24 -
+			Providing Customer Details
+2024-10-21 00:32:01 INFO  TC01_AccountRegistrationTest:50 -
+			*** Finished TC01_AccountRegistrationTest ***
+2024-10-21 00:32:05 INFO  TC02_SingleLoginTest:15 -
+			*** Starting TC02_LoginTest *** 
+2024-10-21 00:53:41 INFO  Utils:112 -
+			[TestNG] Running:
+  D:\Eclipse-Workspace\Opencart\grouping.xml
+
+2024-10-21 00:53:45 INFO  TC01_AccountRegistrationTest:15 -
+			*** Starting TC01_AccountRegistrationTest ***
+2024-10-21 00:53:45 INFO  TC01_AccountRegistrationTest:18 -
+			Clicked On My Account
+2024-10-21 00:53:45 INFO  TC01_AccountRegistrationTest:20 -
+			Clicked On Registration
+2024-10-21 00:53:45 INFO  TC01_AccountRegistrationTest:24 -
+			Providing Customer Details
+2024-10-21 00:53:46 INFO  TC01_AccountRegistrationTest:49 -
+			*** Finished TC01_AccountRegistrationTest ***
+2024-10-21 00:53:51 INFO  TC02_SingleLoginTest:15 -
+			*** Starting TC02_LoginTest *** 
