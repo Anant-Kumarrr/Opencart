@@ -18,7 +18,7 @@ public class TC02_SingleLoginTest extends BaseClass{
 			hp.clickMyAccount();
 			hp.clickLogin();
 			LoginPage lp = new LoginPage(driver);
-			lp.setEmail("Kumar@gmail.com"); /* p.getProperty("EmailId") */
+			lp.setEmail(p.getProperty("EmailId")); 
 			lp.setPassword(p.getProperty("Password"));
 			lp.pressLogin();
 			MyAccountPage map = new MyAccountPage(driver);
